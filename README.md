@@ -1,2 +1,2 @@
-# LSROM
-LSROM: Learning Self-Refined Organizing Map for Fast Imbalanced Streaming Data Clustering
+# TSSC
+TSSC: Tri-Squeezing SOM for Efficient Imbalance-Drifting Data Clustering
